@@ -1,6 +1,0 @@
-
-// Función main
-main() {
-
-  
-}
